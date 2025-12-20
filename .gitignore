@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build
+android/app/build/
+android/ .gradle/
+*.apk
+
+# Android SDK cache (IMPORTANTE!)
+.android/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Capacitor generated
+android/app/src/main/assets/public/
